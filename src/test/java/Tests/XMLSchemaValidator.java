@@ -5,7 +5,6 @@ import static io.restassured.matcher.RestAssuredMatchers.matchesXsdInClasspath;
 import static org.hamcrest.Matchers.equalTo;
 
 import io.restassured.http.ContentType;
-import io.restassured.matcher.RestAssuredMatchers;
 import org.apache.commons.io.IOUtils;
 import org.testng.annotations.Test;
 
